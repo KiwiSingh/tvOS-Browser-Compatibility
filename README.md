@@ -12,7 +12,7 @@ A master compatibility list for various websites with the open-source [tvOS Brow
 | Google                       | https://www.google.com          | ✅         | Works as expected                                                                      | 20/08/2025  |
 | HearThis                     | https://hearthis.at             | ✅         | Even login works!                                                                      | 20/08/2025  |
 | PornHub                      | https://www.pornhub.com         | ❌         | Videos won't play                                                                      | 20/08/2025  |
-| SoundCloud                   | https://www.soundcloud.com      | Partially | Can't login                                                                            |             |
+| SoundCloud                   | https://www.soundcloud.com      | Partially | Can't login                                                                            | 20/08/2025  |
 | TikTok                       | https://www.tiktok.com          | ❌         | Videos won't scroll past the second random one, can't login                            | 20/08/2025  |
 | UpSkill Campus               | https://learn.upskillcampus.com | Partially | Fullscreen crash and some HTML glitches but otherwise works perfect for viewing videos | 20/08/2025  |
 | Xvideos                      | https://www.xvideos.com         | ✅         | Videos work; login untested                                                            | 20/08/2025  |
