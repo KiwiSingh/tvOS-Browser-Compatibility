@@ -1,5 +1,5 @@
 # tvOS Browser Compatibility
-A master compatibility list for various websites with the open-source (tvOS Browser)[https://github.com/jvanakker/tvOSBrowser]. Updated periodically.
+A master compatibility list for various websites with the open-source [tvOS Browser](https://github.com/jvanakker/tvOSBrowser). Updated periodically.
 
 ## Master list
 | Website                      | URL                             | Works?    | Explanation                                                                            | Last tested |
