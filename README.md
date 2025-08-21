@@ -4,7 +4,7 @@ A master compatibility list for various websites with the open-source [tvOS Brow
 ## Master list
 | Website                      | URL                             | Works?    | Explanation                                                                            | Last tested |
 |------------------------------|---------------------------------|-----------|----------------------------------------------------------------------------------------|-------------|
-| AliExpress                   | https://aliexpress.com          | ❌         | Website scales incorrectly, can't login, can't submit ReCaptcha                        |             |
+| AliExpress                   | https://aliexpress.com          | ❌         | Website scales incorrectly, can't login, can't submit ReCaptcha                        | 21/08/2025  |
 | Amazon India                 | https://www.amazon.in           | ✅         | Website core functionality fully functional; haven't tested more fancy stuff           | 20/08/2025  |
 | Azala’s Picture Cards Online | https://picturecards.online     | Partially | Can't login or host games; workarounds exist                                           | 20/08/2025  |
 | CardBox Games                | https://web.cardbox.tv          | ❌         | Buttons unclickable                                                                    | 20/08/2025  |
